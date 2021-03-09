@@ -1,0 +1,7 @@
+.git/*
+env/
+venv/
+flask_env/
+*.env
+
+.vscode
